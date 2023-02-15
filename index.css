@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+.topbody {
+    background-color: #8458B3;
+    width: 100vw;
+    height: 64vh;
+    margin: 0;
+}
+
+.lowerbody {
+    background-color: rgb(213, 211, 221);
+    width: 100vw;
+    height: 36vh;
+    margin: 0;
+}
